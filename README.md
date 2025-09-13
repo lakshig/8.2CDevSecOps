@@ -212,3 +212,5 @@ snyk wizard
 
 In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
+d e m o   t r i g g e r   0 9 / 1 3 / 2 0 2 5   1 7 : 3 3 : 5 0  
+ 
